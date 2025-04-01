@@ -51,7 +51,7 @@ class AttendanceSystem:
         self.tree.pack(fill="both", expand=True)
 
         
-        self.baud_rate = 115200   # ESP32's default baud rate is often 115200
+        self.baud_rate = 9600   # ESP32's default baud rate is often 115200
         self.serial_port = self.find_serial_port()
         self.ser = None
         self.connect_serial()
@@ -129,13 +129,13 @@ class AttendanceSystem:
             if self.check_time_out(name):
                 self.insert_time_out(name, timestamp)
                 self.update_logs()
-                
+                self.send_email(email, name, timestamp, "Time Out")
                 self.ser.write(('success' + '\n').encode())
                 self.Zshow_message()
             else:
                 self.insert_log(name, timestamp)
                 self.update_logs()
-                
+                self.send_email(email, name, timestamp, "Time In")
                 self.ser.write(('success' + '\n').encode())
                 self.Zshow_message()
         else:
