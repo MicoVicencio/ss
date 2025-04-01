@@ -1,4 +1,4 @@
-('C:\\Users\\micov\\Desktop\\rfid attendamce\\build\\forarduino\\PYZ-00.pyz',
+('C:\\Users\\micov\\Desktop\\New folderar\\build\\forarduino\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
    'PYMODULE'),
@@ -48,44 +48,34 @@
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\calendar.py',
    'PYMODULE'),
   ('certifi',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\certifi\\__init__.py',
    'PYMODULE'),
   ('certifi.core',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\certifi\\core.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\certifi\\core.py',
    'PYMODULE'),
   ('charset_normalizer',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\__init__.py',
    'PYMODULE'),
   ('charset_normalizer.api',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\api.py',
    'PYMODULE'),
   ('charset_normalizer.cd',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\cd.py',
    'PYMODULE'),
   ('charset_normalizer.constant',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\constant.py',
    'PYMODULE'),
   ('charset_normalizer.legacy',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\legacy.py',
    'PYMODULE'),
   ('charset_normalizer.models',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\models.py',
    'PYMODULE'),
   ('charset_normalizer.utils',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\utils.py',
    'PYMODULE'),
   ('charset_normalizer.version',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\version.py',
    'PYMODULE'),
   ('code',
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\code.py',
@@ -229,28 +219,22 @@
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookies.py',
    'PYMODULE'),
   ('idna',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\idna\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\__init__.py',
    'PYMODULE'),
   ('idna.core',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\idna\\core.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\core.py',
    'PYMODULE'),
   ('idna.idnadata',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\idnadata.py',
    'PYMODULE'),
   ('idna.intranges',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\idna\\intranges.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\intranges.py',
    'PYMODULE'),
   ('idna.package_data',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\idna\\package_data.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\package_data.py',
    'PYMODULE'),
   ('idna.uts46data',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\uts46data.py',
    'PYMODULE'),
   ('importlib',
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\__init__.py',
@@ -385,131 +369,100 @@
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py',
    'PYMODULE'),
   ('requests',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__init__.py',
    'PYMODULE'),
   ('requests.__version__',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\__version__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__version__.py',
    'PYMODULE'),
   ('requests._internal_utils',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\_internal_utils.py',
    'PYMODULE'),
   ('requests.adapters',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\adapters.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\adapters.py',
    'PYMODULE'),
   ('requests.api',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\api.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\api.py',
    'PYMODULE'),
   ('requests.auth',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\auth.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\auth.py',
    'PYMODULE'),
   ('requests.certs',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\certs.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\certs.py',
    'PYMODULE'),
   ('requests.compat',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\compat.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\compat.py',
    'PYMODULE'),
   ('requests.cookies',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\cookies.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\cookies.py',
    'PYMODULE'),
   ('requests.exceptions',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\exceptions.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\exceptions.py',
    'PYMODULE'),
   ('requests.hooks',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\hooks.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\hooks.py',
    'PYMODULE'),
   ('requests.models',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\models.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\models.py',
    'PYMODULE'),
   ('requests.packages',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\packages.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\packages.py',
    'PYMODULE'),
   ('requests.sessions',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\sessions.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\sessions.py',
    'PYMODULE'),
   ('requests.status_codes',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\status_codes.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\status_codes.py',
    'PYMODULE'),
   ('requests.structures',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\structures.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\structures.py',
    'PYMODULE'),
   ('requests.utils',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\requests\\utils.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\utils.py',
    'PYMODULE'),
   ('selectors',
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\selectors.py',
    'PYMODULE'),
   ('serial',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\__init__.py',
    'PYMODULE'),
   ('serial.serialcli',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\serialcli.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialcli.py',
    'PYMODULE'),
   ('serial.serialjava',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\serialjava.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialjava.py',
    'PYMODULE'),
   ('serial.serialposix',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\serialposix.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialposix.py',
    'PYMODULE'),
   ('serial.serialutil',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\serialutil.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialutil.py',
    'PYMODULE'),
   ('serial.serialwin32',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\serialwin32.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialwin32.py',
    'PYMODULE'),
   ('serial.tools',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\tools\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\__init__.py',
    'PYMODULE'),
   ('serial.tools.list_ports',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\tools\\list_ports.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports.py',
    'PYMODULE'),
   ('serial.tools.list_ports_common',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\tools\\list_ports_common.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_common.py',
    'PYMODULE'),
   ('serial.tools.list_ports_linux',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\tools\\list_ports_linux.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_linux.py',
    'PYMODULE'),
   ('serial.tools.list_ports_osx',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\tools\\list_ports_osx.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_osx.py',
    'PYMODULE'),
   ('serial.tools.list_ports_posix',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\tools\\list_ports_posix.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_posix.py',
    'PYMODULE'),
   ('serial.tools.list_ports_windows',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\tools\\list_ports_windows.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_windows.py',
    'PYMODULE'),
   ('serial.win32',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\serial\\win32.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\win32.py',
    'PYMODULE'),
   ('shutil',
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shutil.py',
@@ -581,8 +534,7 @@
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\typing.py',
    'PYMODULE'),
   ('typing_extensions',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
    'PYMODULE'),
   ('urllib',
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\__init__.py',
@@ -600,148 +552,112 @@
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\response.py',
    'PYMODULE'),
   ('urllib3',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\__init__.py',
    'PYMODULE'),
   ('urllib3._base_connection',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_base_connection.py',
    'PYMODULE'),
   ('urllib3._collections',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\_collections.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_collections.py',
    'PYMODULE'),
   ('urllib3._request_methods',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_request_methods.py',
    'PYMODULE'),
   ('urllib3._version',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\_version.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_version.py',
    'PYMODULE'),
   ('urllib3.connection',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\connection.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\connection.py',
    'PYMODULE'),
   ('urllib3.connectionpool',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\connectionpool.py',
    'PYMODULE'),
   ('urllib3.contrib',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.connection',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.fetch',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.request',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.response',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
    'PYMODULE'),
   ('urllib3.contrib.pyopenssl',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
    'PYMODULE'),
   ('urllib3.contrib.socks',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
    'PYMODULE'),
   ('urllib3.exceptions',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\exceptions.py',
    'PYMODULE'),
   ('urllib3.fields',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\fields.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\fields.py',
    'PYMODULE'),
   ('urllib3.filepost',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\filepost.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\filepost.py',
    'PYMODULE'),
   ('urllib3.http2',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
    'PYMODULE'),
   ('urllib3.http2.connection',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\http2\\connection.py',
    'PYMODULE'),
   ('urllib3.http2.probe',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\http2\\probe.py',
    'PYMODULE'),
   ('urllib3.poolmanager',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\poolmanager.py',
    'PYMODULE'),
   ('urllib3.response',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\response.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\response.py',
    'PYMODULE'),
   ('urllib3.util',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\__init__.py',
    'PYMODULE'),
   ('urllib3.util.connection',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\connection.py',
    'PYMODULE'),
   ('urllib3.util.proxy',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\proxy.py',
    'PYMODULE'),
   ('urllib3.util.request',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\request.py',
    'PYMODULE'),
   ('urllib3.util.response',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\response.py',
    'PYMODULE'),
   ('urllib3.util.retry',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\retry.py',
    'PYMODULE'),
   ('urllib3.util.ssl_',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
    'PYMODULE'),
   ('urllib3.util.ssl_match_hostname',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
    'PYMODULE'),
   ('urllib3.util.ssltransport',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
    'PYMODULE'),
   ('urllib3.util.timeout',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\timeout.py',
    'PYMODULE'),
   ('urllib3.util.url',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\url.py',
    'PYMODULE'),
   ('urllib3.util.util',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\util.py',
    'PYMODULE'),
   ('urllib3.util.wait',
-   'c:\\Users\\micov\\Desktop\\rfid '
-   'attendamce\\.venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\wait.py',
    'PYMODULE'),
   ('zipfile',
    'C:\\Users\\micov\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\__init__.py',
